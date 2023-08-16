@@ -1,0 +1,35 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing:border-box;
+}
+
+.contenedor{
+    width: 1000px;
+    margin: 200px;
+    background: #bbb6b6;
+}
+header{
+    padding: 20px;
+    background: #e2dede;
+}
+
+.main{
+    padding: 20px;
+    width: 700px;
+    float: left;
+    background: #cecece;
+}
+aside{
+    padding:20px;
+    width: 300px;
+    float: left;
+    background: #888585;
+}
+footer{
+    clear:both;
+    background: #dfdada;
+}
+.dos{
+    font-size: 70px;
+}
