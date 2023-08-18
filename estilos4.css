@@ -28,7 +28,7 @@ header{
     max-height: 600px;
     height: 450px;
     position: relative;
-    z-index: -1;
+   
 }
 
 header .menu{
